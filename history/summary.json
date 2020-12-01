@@ -5,7 +5,7 @@
     "slug": "espresso-tutorials-de",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1403
+    "time": 1417
   },
   {
     "name": "Espresso Tutorials (EN)",
@@ -13,7 +13,7 @@
     "slug": "espresso-tutorials-en",
     "status": "up",
     "uptime": "100.00%",
-    "time": 867
+    "time": 858
   },
   {
     "name": "et.training",
@@ -21,7 +21,7 @@
     "slug": "et-training",
     "status": "up",
     "uptime": "100.00%",
-    "time": 521
+    "time": 526
   },
   {
     "name": "et-plm.de",
@@ -29,7 +29,7 @@
     "slug": "et-plm-de",
     "status": "up",
     "uptime": "100.00%",
-    "time": 839
+    "time": 832
   },
   {
     "name": "et-arm.de",
@@ -37,7 +37,7 @@
     "slug": "et-arm-de",
     "status": "up",
     "uptime": "100.00%",
-    "time": 675
+    "time": 673
   },
   {
     "name": "et-customer.de",
@@ -45,6 +45,6 @@
     "slug": "et-customer-de",
     "status": "up",
     "uptime": "100.00%",
-    "time": 726
+    "time": 727
   }
 ]
