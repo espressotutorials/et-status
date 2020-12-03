@@ -5,7 +5,15 @@
     "slug": "espresso-tutorials-de",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1429
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1500,
+    "timeDay": 1274,
+    "timeWeek": 1548,
+    "timeMonth": 1500,
+    "timeYear": 1500
   },
   {
     "name": "Espresso Tutorials (EN)",
@@ -13,7 +21,15 @@
     "slug": "espresso-tutorials-en",
     "status": "up",
     "uptime": "100.00%",
-    "time": 854
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 842,
+    "timeDay": 662,
+    "timeWeek": 867,
+    "timeMonth": 842,
+    "timeYear": 842
   },
   {
     "name": "et.training",
@@ -21,7 +37,15 @@
     "slug": "et-training",
     "status": "up",
     "uptime": "100.00%",
-    "time": 535
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 561,
+    "timeDay": 472,
+    "timeWeek": 600,
+    "timeMonth": 561,
+    "timeYear": 561
   },
   {
     "name": "et-plm.de",
@@ -29,7 +53,15 @@
     "slug": "et-plm-de",
     "status": "up",
     "uptime": "100.00%",
-    "time": 828
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 831,
+    "timeDay": 871,
+    "timeWeek": 773,
+    "timeMonth": 831,
+    "timeYear": 831
   },
   {
     "name": "et-arm.de",
@@ -37,7 +69,15 @@
     "slug": "et-arm-de",
     "status": "up",
     "uptime": "100.00%",
-    "time": 670
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 661,
+    "timeDay": 531,
+    "timeWeek": 677,
+    "timeMonth": 661,
+    "timeYear": 661
   },
   {
     "name": "et-customer.de",
@@ -45,6 +85,14 @@
     "slug": "et-customer-de",
     "status": "up",
     "uptime": "100.00%",
-    "time": 722
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 720,
+    "timeDay": 681,
+    "timeWeek": 673,
+    "timeMonth": 720,
+    "timeYear": 720
   }
 ]
