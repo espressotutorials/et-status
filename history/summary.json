@@ -2,6 +2,7 @@
   {
     "name": "Espresso Tutorials (DE)",
     "url": "https://www.espresso-tutorials.de",
+    "icon": "https://favicons.githubusercontent.com/www.espresso-tutorials.de",
     "slug": "espresso-tutorials-de",
     "status": "up",
     "uptime": "100.00%",
@@ -10,14 +11,16 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1434,
-    "timeDay": 1510,
-    "timeWeek": 1354,
+    "timeDay": 1438,
+    "timeWeek": 1329,
     "timeMonth": 1434,
-    "timeYear": 1434
+    "timeYear": 1434,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Espresso Tutorials (EN)",
     "url": "https://www.espresso-tutorials.com",
+    "icon": "https://favicons.githubusercontent.com/www.espresso-tutorials.com",
     "slug": "espresso-tutorials-en",
     "status": "up",
     "uptime": "100.00%",
@@ -25,15 +28,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 808,
-    "timeDay": 569,
-    "timeWeek": 691,
-    "timeMonth": 808,
-    "timeYear": 808
+    "time": 796,
+    "timeDay": 574,
+    "timeWeek": 664,
+    "timeMonth": 796,
+    "timeYear": 796,
+    "dailyMinutesDown": {}
   },
   {
     "name": "et.training",
     "url": "https://et.training",
+    "icon": "https://favicons.githubusercontent.com/et.training",
     "slug": "et-training",
     "status": "up",
     "uptime": "100.00%",
@@ -41,15 +46,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 557,
-    "timeDay": 497,
-    "timeWeek": 571,
-    "timeMonth": 557,
-    "timeYear": 557
+    "time": 551,
+    "timeDay": 421,
+    "timeWeek": 540,
+    "timeMonth": 551,
+    "timeYear": 551,
+    "dailyMinutesDown": {}
   },
   {
     "name": "et-plm.de",
     "url": "https://et-plm.de",
+    "icon": "https://favicons.githubusercontent.com/et-plm.de",
     "slug": "et-plm-de",
     "status": "up",
     "uptime": "100.00%",
@@ -57,15 +64,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 795,
-    "timeDay": 478,
-    "timeWeek": 710,
-    "timeMonth": 795,
-    "timeYear": 795
+    "time": 784,
+    "timeDay": 580,
+    "timeWeek": 681,
+    "timeMonth": 784,
+    "timeYear": 784,
+    "dailyMinutesDown": {}
   },
   {
     "name": "et-arm.de",
     "url": "https://et-arm.de",
+    "icon": "https://favicons.githubusercontent.com/et-arm.de",
     "slug": "et-arm-de",
     "status": "up",
     "uptime": "100.00%",
@@ -73,15 +82,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 641,
-    "timeDay": 597,
-    "timeWeek": 592,
-    "timeMonth": 641,
-    "timeYear": 641
+    "time": 635,
+    "timeDay": 530,
+    "timeWeek": 561,
+    "timeMonth": 635,
+    "timeYear": 635,
+    "dailyMinutesDown": {}
   },
   {
     "name": "et-customer.de",
     "url": "https://et-customer.de",
+    "icon": "https://favicons.githubusercontent.com/et-customer.de",
     "slug": "et-customer-de",
     "status": "up",
     "uptime": "100.00%",
@@ -89,10 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 690,
-    "timeDay": 505,
-    "timeWeek": 628,
-    "timeMonth": 690,
-    "timeYear": 690
+    "time": 682,
+    "timeDay": 520,
+    "timeWeek": 599,
+    "timeMonth": 682,
+    "timeYear": 682,
+    "dailyMinutesDown": {}
   }
 ]
