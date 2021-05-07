@@ -8,15 +8,25 @@ sites:
     url: https://www.espresso-tutorials.de
   - name: Espresso Tutorials (EN)
     url: https://www.espresso-tutorials.com
-  - name: et.training
+  - name: Espresso Tutorials (FR)
+    url: https://www.espresso-tutorials.fr
+  - name: Library (Production)
     url: https://et.training
-  - name: et-plm.de
+  - name: PLM (Production)
     url: https://et-plm.de
-  - name: et-arm.de
+  - name: ARM (Production)
     url: https://et-arm.de
-  - name: et-customer.de
+  - name: Customer Center (Production)
     url: https://et-customer.de
-    
+  - name: Admin (Production)
+    url: admin.espresso-tutorials.com
+  - name: Admin (Staging)
+    url: staging.admin.espresso-tutorials.com
+  - name: API (Staging)
+    url: staging.api.espresso-tutorials.com
+  - name: Infoday (Staging)
+    url: staging.infoday.io
+
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
   # cname: demo.upptime.js.org
